@@ -35,7 +35,7 @@ const CONFIG = {
         third: {
             text: "Will you be mine for another 6 months?", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            noBtn: "No I hate you :( "                                                 // Text for "No" button
         }
     },
 
@@ -49,19 +49,19 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "YAYAYAY OMG IM THE LUCKIEST GIRL IN THE WORLD",
+        message: "To our next 6 months and the many more that are yet to come! ❤️",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
-        buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#ff4757"             // Text color (make sure it's readable!)
+        backgroundStart: "#a3b18a",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#588157",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#3a5a40",     //  (should stand out against the background)
+        buttonHover: "#d8f3dc",          // Button hover color (slightly lighter than buttonBackground)
+        textColor: "#344e41"             // Text color (make sure it's readable!)
     },
 
     // Animation settings

@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "YAYAYAY OMG IM THE LUCKIEST GIRL IN THE WORLD",
         message: "To our next 6 months and the many more that are yet to come! ❤️",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "❤️❤️❤️"  // These will bounce around
     },
 
     // Color scheme for the website
